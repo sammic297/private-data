@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sammic297/private-data/issues"
   },
-  "homepage": "https://github.com/sammic297/private-data#readme"
+  "homepage": "https://github.com/sammic297/private-data#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.6"
+  }
 }
